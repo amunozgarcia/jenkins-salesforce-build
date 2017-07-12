@@ -4,6 +4,14 @@
         <members>*</members>
         <name>ApexClass</name>
     </types>
+    <types>
+        <members>*</members>
+        <name>ApexPage</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ApexTrigger</name>
+	</types>	
    
     <version>38.0</version>
 </Package>
